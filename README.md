@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@andersonlemes">YouTube</a>
+  <a href="https://www.youtube.com/@andersonslemes">YouTube</a>
   ·
   <a href="https://github.com/andersonlemesc?tab=repositories">Projetos</a>
   ·
@@ -84,8 +84,8 @@ Em projetos próprios e estudos, venho explorando:
 Também compartilho estudos, testes e ideias no YouTube:
 
 <p>
-  <a href="https://www.youtube.com/@andersonlemes">
-    <img src="https://img.shields.io/badge/YouTube-andersonlemes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: andersonlemes" />
+  <a href="https://www.youtube.com/@andersonslemes">
+    <img src="https://img.shields.io/badge/YouTube-andersonslemes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: andersonslemes" />
   </a>
 </p>
 
